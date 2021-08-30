@@ -1,5 +1,8 @@
 # Unity uGUI アドバンスド・リファレンス
 
+English Google Translated version:
+https://docs.google.com/document/d/1JUWOrBbhOj56YpuqizYLdWLjXCTMfFdZ2KRJL2q2yF8/edit
+
 ## ダウンロード方法
 
 [Unity_uGUI_Advanced_Reference.pdf](https://github.com/heppoko/Unity_uGUI_Advance_Reference/blob/main/Unity_uGUI_Advanced_Reference.pdf) の Download ボタンを押す（ファイルサイズが大きいので GitHub のプレビューではうまく表示できないかもしれない）
